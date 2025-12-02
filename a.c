@@ -3,5 +3,6 @@ using namespace std;
 
 int main()
 {
-	cout<<"a.c";
+       cout<<"a1.c";
+       cout<<"b.c";
 }
